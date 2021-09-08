@@ -10,5 +10,11 @@ The mobile plateform is meant to can be controlled remotely capable of SLAM - si
 - Arduino uno: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?dchild=1&keywords=arduino&qid=1631142273&sr=8-3
 
 ## Dependancies and Packages
-Firstly make sure to install and have ROS running on the jetson nano follow this tutorial
+- Install and have ROS running on the jetson nano follow [this](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/) tutorial.
+- Install the arduino ide and install rosserial-arduino and upload the motor driver adruino code from [here](https://atadiat.com/en/e-rosserial-arduino-introduction/) make sure to either follow the same wiring pin configuration or you can edit the pin assignements to reflect what you have.
+- Next is to install the teleop `sudo apt-get install ros-melodic-teleop-twist-keyboard`
+
+## Runing packages 
+
+
 ## Todo 
