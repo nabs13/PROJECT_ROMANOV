@@ -45,3 +45,8 @@ The mobile plateform is meant to can be controlled remotely capable of SLAM - si
 ## Results
 
 ![WhatsApp Image 2021-09-11 at 2 36 41 PM](https://user-images.githubusercontent.com/23342920/132955635-3ff77bbc-82eb-41d7-bafd-4f0763a8f569.jpeg)
+
+![Screenshot from 2021-09-11 11-45-52](https://user-images.githubusercontent.com/23342920/132955687-de0dc6a3-31d9-43a9-8a65-5208551ad8a9.png)
+
+![Screenshot from 2021-09-10 15-20-55](https://user-images.githubusercontent.com/23342920/132955696-f1b9439e-f03b-4607-ac4e-64c19517d300.png)
+
