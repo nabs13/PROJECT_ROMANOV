@@ -40,4 +40,8 @@ The mobile plateform is meant to can be controlled remotely capable of SLAM - si
 ## Todo 
 - Install and integrate MPU 6050 hardware and drivers
 - Develop TF2 relation broadcater and listener
-- Add wheel encoders for odomtery   
+- Add wheel encoders for odomtery 
+
+## Results
+
+![WhatsApp Image 2021-09-11 at 2 36 41 PM](https://user-images.githubusercontent.com/23342920/132955635-3ff77bbc-82eb-41d7-bafd-4f0763a8f569.jpeg)
