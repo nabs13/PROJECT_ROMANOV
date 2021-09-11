@@ -1,5 +1,5 @@
 # ROMANOV  -  Remotely cOntrolled MAppiNg lOcalization naVigation
-Romanov is a mobile robotic platform built from scratch, mostly using components readily available in Ghana.
+Romanov is a mobile robot platform built from scratch, built as my familarity project with ROS systems.
 The mobile plateform is meant to can be controlled remotely capable of SLAM - simulatenious Localization And Mapping.
 
 ## Components
