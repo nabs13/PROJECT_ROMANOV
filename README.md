@@ -1,6 +1,6 @@
 # ROMANOV  -  Remotely cOntrolled MAppiNg lOcalization naVigation
-Romanov is a mobile robot platform built from scratch, built as my familarity project with ROS systems.
-The mobile plateform is meant to can be controlled remotely capable of SLAM - simulatenious Localization And Mapping.
+Romanov is a mobile robot platform built from scratch for as my familarity project with ROS systems and Programming.
+The mobile platform is meant to be controlled remotely and capable of SLAM - simulatenious Localization And Mapping.
 
 ## Components
 
@@ -15,7 +15,7 @@ The mobile plateform is meant to can be controlled remotely capable of SLAM - si
 
 ## Dependancies and Packages
 - ROS on the jetson nano follow [this](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/) tutorial.
-- 
+
 - Install the arduino ide and install rosserial-arduino and upload the motor driver adruino code from [here](https://atadiat.com/en/e-rosserial-arduino-introduction/) make sure to either follow the same wiring pin configuration or you can edit the pin assignements to reflect what you have.
 
 -Hector Slam package [here](https://github.com/NickL77/RPLidar_Hector_SLAM), be sure to configure the package as the tutorial requires. 
@@ -38,8 +38,11 @@ The mobile plateform is meant to can be controlled remotely capable of SLAM - si
 
 
 ## Todo 
+
 - Install and integrate MPU 6050 hardware and drivers
+
 - Develop TF2 relation broadcater and listener
+
 - Add wheel encoders for odomtery 
 
 ## Results
